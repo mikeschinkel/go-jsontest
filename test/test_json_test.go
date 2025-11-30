@@ -1,6 +1,6 @@
-// Package jsontest_test provides comprehensive tests for the jsontest framework's JSON assertion capabilities.
+// Package test provides comprehensive tests for the jsontest framework's JSON assertion capabilities.
 // This package tests JSON path resolution, pipe functions, array handling, and validation across various scenarios.
-package jsontest_test
+package test
 
 import (
 	"testing"
