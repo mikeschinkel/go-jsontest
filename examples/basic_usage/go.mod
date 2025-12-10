@@ -2,7 +2,7 @@ module basic_usage
 
 go 1.25.3
 
-require github.com/mikeschinkel/go-jsontest v0.1.0
+require github.com/mikeschinkel/go-jsontest v0.1.2
 
 require (
 	github.com/tidwall/gjson v1.18.0 // indirect
